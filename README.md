@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/GuLopes14/GuLopes14/output/snake.svg" alt="Snake animation" />
-
-###
