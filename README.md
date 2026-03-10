@@ -1,7 +1,7 @@
 # Olá, sou Gustavo Lopes! 👋
 
 <p align="left">
-  Estudante de Análise e Desenvolvimento de Sistemas na FIAP, apaixonado por desenvolvimento de software e novas tecnologias.
+  Estudante de Engenharia de software na FIAP, formado em Análise e desenvolvimento de sistemas e apaixonado por desenvolvimento de software e novas tecnologias.
 </p>
 
 ## 🚀 Tecnologias
@@ -56,8 +56,10 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuLopes14&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuLopes14&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="170" alt="languages graph" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/GuLopes14?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/your-github-username">
+</picture>
 </div>
 
 <div align="center">
